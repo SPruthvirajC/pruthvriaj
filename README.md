@@ -1,2 +1,3 @@
-# pruthvriaj
-my personal portfolio
+# yuyamei
+Day02 of Daily code
+http://atomstudios.me/yuyamei/
